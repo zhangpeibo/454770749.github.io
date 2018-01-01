@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "伍浩杰个人网站"
+title: "张培博个人网站"
 description: "个人作品展示"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name: 伍浩杰
-  email: 454770749@qq.com
+  name: 张培博
+  email: 13417007426@163.com
   twitter: 
   google:
     ad-client:
     ad-slot:
-  bio: "H组伍浩杰"
+  bio: "N组张培博"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 

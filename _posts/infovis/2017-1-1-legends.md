@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "哪一个图表或图形适合您"
+title:  "学会选择图表"
 date:   2017-1-1 22:07:50 +0800
 categories: posts infovis
 image:
-  teaser: 6.jpg
-  feature: 6.jpg
+  teaser: bg2014112901.png
+  feature: bg2014112901.png
 ---
 ## which_chart
 
